@@ -1,0 +1,15 @@
+i=10
+f=39.56
+s="hello"
+b=True
+c=2+3j
+print(i)
+print(f)
+print(s)
+print(b)
+print(c)
+print(type(i))
+print(type(f))
+print(type(s))
+print(type(b))
+print(type(c))
