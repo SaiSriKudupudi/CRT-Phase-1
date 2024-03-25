@@ -1,0 +1,10 @@
+mylist=[]
+mylist=["sai","pravalli","priya"]
+mylist.append("sri")
+print(mylist)
+mylist.insert(2,"rani")
+print(mylist)
+print(mylist[3:5])
+print(mylist[::-1])
+print(mylist[1:])
+print(mylist[4:])

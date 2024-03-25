@@ -1,0 +1,7 @@
+mytuple=("pink","blue","white","green","orange","purple")
+print(mytuple)
+print(type(mytuple))
+mytuple=mytuple+("violet",)
+print(mytuple)
+mytuple=mytuple+("skyblue","grey")
+print(mytuple)
